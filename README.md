@@ -1,1 +1,1 @@
-# CodeClauseInternship_ChatApplication
+## Chat Application
